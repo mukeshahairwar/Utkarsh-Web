@@ -1,0 +1,35 @@
+
+body {
+    background: linear-gradient( darkred 40%, #3305ff 100%);
+    text-align: center;
+}
+
+.h {
+    color:ghostwhite;
+    font-size: 40px;
+     font-family: 'Cinzel Decorative', cursive;
+}
+
+#h {
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#imp{
+    width: 130px;
+    height: 170px;
+    border-radius: 70px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+}
+
+.butt{
+    border-radius: 75px;
+    border-width: thick;
+    border-color: firebrick;
+    background-color: crimson;
+    color: azure
+}
